@@ -68,7 +68,8 @@ img{
 
 footer{
     background-color: rgba(77, 75, 121, 0.2);
-    height: 30%;
+    height: 25%;
+    width: fit-content;
     font-family: 'Bitter';
     margin-bottom: 3em;
 }
