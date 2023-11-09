@@ -243,6 +243,7 @@ margin-left: 15em;
 
 .h2tips{
     font-size: large;
+    text-align: center;
 }
 
 h3{font-size: medium;
@@ -251,6 +252,11 @@ h3{font-size: medium;
     color:purple;
     margin: 3em 0 0 1em;
    text-align: left;
+}
+
+#h3tips1{
+    margin-left: 6em;
+
 }
 
 .ptips{
@@ -266,6 +272,8 @@ h3{font-size: medium;
 
 .fototips{
     margin-top: 2em; 
+    padding-left: 2em;
+    padding-right: 2em;
     
 }
 
